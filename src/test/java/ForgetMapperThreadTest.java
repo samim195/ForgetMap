@@ -21,7 +21,7 @@ public class ForgetMapperThreadTest {
 
         assertTrue(forgetMap.max > 0);
 
-//        Updated my solutation for threaded testing as I found a better solution:
+//        Updated my solution for threaded testing as I found a better solution:
 //        https://www.baeldung.com/java-start-thread
     }
 }

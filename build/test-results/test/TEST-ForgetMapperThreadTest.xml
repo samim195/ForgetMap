@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ForgetMapperThreadTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-12T21:21:39" hostname="UKC02FXJANMD6M" time="0.021">
+  <properties/>
+  <testcase name="whenMultipleThreadsRunAgainstSameMapResourceNoConflictsShouldOccur()" classname="ForgetMapperThreadTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -29,7 +29,7 @@ public class ForgetMapTest {
         forgetMap.find(numberPlate);
 
         //Verify
-        assertEquals(1, forgetMap.getAssociationMapCount().get(numberPlate));
+        assertEquals(1, forgetMap.getCarRegCountMap().get(numberPlate));
     }
 
     @Test
@@ -46,7 +46,7 @@ public class ForgetMapTest {
         forgetMap.find("AT19 OPY");
 
         //Verify
-        assertEquals(2, forgetMap.getAssociationMapCount().get("AT19 OPY"));
+        assertEquals(2, forgetMap.getCarRegCountMap().get("AT19 OPY"));
     }
 
     @Test
